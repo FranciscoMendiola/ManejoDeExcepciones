@@ -16,7 +16,7 @@ public class Excepciones {
     }
 
     /**
-     * Método principal. Solicita al usuario un número entero yanda a llamar a 
+     * Método principal. Solicita al usuario un número entero manda a llamar a 
      * la función raiz, para obtener la raiz cuadrada del numero entero ingresado por el usuario.
      * @param args Para acceder a los argumentos. 
      */
