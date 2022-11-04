@@ -1,6 +1,12 @@
 # ManejoDeExcepciones
 
-La ejecución del programa de hace atraves de los comandos:
+La ejecución del programa de hace atraves de los siguientes comandos.
+
+
+Para compilar: 
 
 1. javac Excepciones.java
-2. java Excepciones
+
+Para ejecutar:
+
+3. java Excepciones
